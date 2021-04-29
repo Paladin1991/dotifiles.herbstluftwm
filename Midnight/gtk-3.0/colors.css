@@ -3,10 +3,10 @@
  ************************/
 
 /**** Background Colors ****/
-@define-color color-theme #F4E1E7;
+@define-color base #1c1c1c;
 
 /**** Font Colors and Destac Colors ****/
-@define-color color-font #E07B9D;
+@define-color highlight #68C7FF;
 
 /**** Text Colors ****/
-@define-color normal-font #282726;
+@define-color font #F0E7DA;
